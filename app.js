@@ -8,7 +8,7 @@ const background = (
   <img 
     className='background'
     alt='ocean' 
-    src='/images/ocean.jpg'
+    src='images/ocean.jpg'
   />)
 
 const images = [];
