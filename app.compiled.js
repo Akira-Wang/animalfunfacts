@@ -38,8 +38,7 @@
     
     var background = _react2.default.createElement('img', {
       className: 'background',
-      alt: '
-        ',
+      alt: 'ocean',
       src: 'images/ocean.jpg'
     });
     
